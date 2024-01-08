@@ -1,0 +1,13 @@
+Token Type,Token Value,location from first
+<identifier>,print,1
+<identifier>,hello,2
+<identifier>,world,3
+<identifier>,print,4
+<identifier>,alireza,5
+<reserved word>,print,1
+<reserved word>,print,2
+<symbol>,(,1
+<symbol>,),2
+<symbol>,(,3
+<symbol>,),4
+<string>,"""hello world""",1
